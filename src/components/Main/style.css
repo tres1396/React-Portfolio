@@ -1,0 +1,19 @@
+body {
+  background: url(./orange-blur.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.main-panel {
+  background: rgba( 255, 255, 255, 0.45 );
+box-shadow: 0 8px 15px 0 rgba(255, 255, 255, 0.24);
+backdrop-filter: blur( 4.5px );
+-webkit-backdrop-filter: blur( 4.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+width: 75%;
+height: 80vh;
+margin-left: 13.5%;
+margin-top: 7vh;
+overflow:hidden;
+}
+

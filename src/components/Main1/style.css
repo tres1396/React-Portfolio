@@ -1,0 +1,56 @@
+/* .container {
+    display: flex;
+} */
+
+@font-face {
+  font-family: Fredoka;
+  src: url(./Fredoka-Fonts/FredokaOne-Regular.ttf);
+}
+
+img {
+  width: 45%;
+  height: auto;
+  margin-left: 45%;
+  position: absolute;
+  z-index: -1;
+}
+
+h1 {
+  position: absolute;
+  font-family: Fredoka;
+  font-size: 6rem;
+  display: inline;
+  margin-top: 4rem;
+  margin-left: 2rem;
+}
+
+h2 {
+  position: absolute;
+  font-family: Fredoka;
+  margin-top: 11rem;
+  margin-left: 2.5rem;
+}
+
+.tre {
+  background: -webkit-linear-gradient(rgb(245, 127, 82), #ffc444);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 6rem;
+  display: inline;
+  z-index: 1;
+}
+
+.link-container{
+  display: flex;
+  position: absolute;
+  margin-top: 41%;
+  margin-left: 4rem;
+}
+
+.a-tag {
+  margin-left: 1rem;
+}
+
+.a-tag:hover {
+  color: #9972f4;
+}

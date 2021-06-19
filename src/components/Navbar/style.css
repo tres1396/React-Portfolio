@@ -1,0 +1,37 @@
+@font-face {
+  font-family: Fredoka;
+  src: url(../Main1/Fredoka-Fonts/FredokaOne-Regular.ttf);
+}
+
+ul {
+  font-family: Fredoka;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  margin-left: 20%;
+  margin-top: 1%;
+}
+
+li {
+  font-family: Fredoka;
+  margin-left: 4rem;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-hover:hover {
+  color: #ffc444;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav-hover:hover { 
+  border-bottom: 3px solid white; /* or whatever colour you'd prefer */
+    /* outline: 3px solid black; */
+}
