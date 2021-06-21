@@ -15,9 +15,6 @@ function Navbar() {
         <li>
           <a className="nav-hover" href="/#">Portfolio</a>
         </li>
-        <li>
-          <a className="nav-hover" href="/#">Contact</a>
-        </li>
       </ul>
     </div>
   );

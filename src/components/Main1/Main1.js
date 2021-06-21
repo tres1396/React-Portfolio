@@ -13,9 +13,9 @@ function Main1() {
         <h2>Full-Stack Software Developer</h2>
         <img className="main-graphic"src={Pic} alt="pic"></img>
         <div className="link-container">
-          <a className="a-tag" href="/#"><i class="fab fa-linkedin fa-2x"></i></a>
+          <a className="a-tag" href="https://www.linkedin.com/in/tre-scott/" target="blank"><i class="fab fa-linkedin fa-2x"></i></a>
           <a className="a-tag" href="/#"><i class="fab fa-twitter fa-2x"></i></a>
-          <a className="a-tag" href="/#"><i class="fab fa-github fa-2x"></i></a>
+          <a className="a-tag" href="https://github.com/tres1396" target="blank"><i class="fab fa-github fa-2x"></i></a>
         </div>
       </div>
     </div>
